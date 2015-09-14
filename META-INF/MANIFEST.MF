@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6alpha 
+Created-By: 1.4.2_03-b02 (Sun Microsystems Inc.)
+Built-By: Glen Stampoultzis
+
+Name: common
+Specification-Title: Jakarta POI
+Specification-Version: 2.5-final-20040302
+Specification-Vendor: Apache
+Implementation-Title: Jakarta POI
+Implementation-Version: 2.5-final-20040302
+Implementation-Vendor: Apache
+
